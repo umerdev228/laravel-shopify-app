@@ -71,14 +71,18 @@ php artisan migrate
 php artisan serve
 ```
 
----
+[//]: # (---)
 
-## 🔗 Live Demo
+[//]: # ()
+[//]: # (## 🔗 Live Demo)
 
-> *(Add link if deployed)*  
-[🔗 View Live Portal](https://your-shopify-portal.example.com)
+[//]: # ()
+[//]: # (> *&#40;Add link if deployed&#41;*  )
 
----
+[//]: # ([🔗 View Live Portal]&#40;https://your-shopify-portal.example.com&#41;)
+
+[//]: # ()
+[//]: # (---)
 
 ## 📄 License
 
